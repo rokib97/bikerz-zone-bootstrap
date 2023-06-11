@@ -1,0 +1,7 @@
+* {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+.bz-carousel-next-prev-btn {
+  background-color: rgba(151, 213, 151, 0.662) !important;
+}
